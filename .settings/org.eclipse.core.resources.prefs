@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//WebContent/resource/js/bootstrap3-validation.js=UTF-8
+encoding//WebContent/resource/js/jquery-2.0.3.min.js=UTF-8
+encoding//WebContent/resource/jsp/BookManage.jsp=UTF-8
+encoding//WebContent/resource/jsp/ManagerMain.jsp=UTF-8
+encoding//WebContent/resource/jsp/UserCart.jsp=UTF-8
+encoding//WebContent/resource/jsp/UserMain.jsp=UTF-8
+encoding//WebContent/resource/jsp/studentInfoManage.jsp=UTF-8
+encoding//src/com/SOB/action/book/AddBookAction.java=UTF-8
+encoding//src/com/SOB/action/book/ListBooksAction.java=UTF-8
+encoding//src/com/SOB/action/user/AddUserAction.java=UTF-8
